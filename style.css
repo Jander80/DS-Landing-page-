@@ -1,0 +1,17 @@
+.cabecalho {
+    background-color: #0033ff;
+    
+}
+
+.botao-visual {
+    background-color: rgba(255, 94, 0, 0.947);
+    color: white;
+    border:white;
+}
+.content {
+    color: blue;
+
+}
+.text-1 {
+    color:white;
+}
