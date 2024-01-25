@@ -12,29 +12,42 @@
 
 .botao-visual {
     background-color: rgba(255, 94, 0, 0.947);
+    font-family: arial, sans-serif;
     color: white;
     border:white;
     width: 15vw;
     height: 10vh;
-    
+  
 }
 .content {
     color: white;
     background-color: #0033ff;
-
+    
 }
+.titulo-content{
+    display: flex;
+    justify-content: center;
+}
+
 .text-1 {
     color:white;
     justify-content: flex-end;
+    font-family: arial, sans-serif;
+    
 }
+
+p {
+    font-family: arial, sans-serif; 
+}
+
 .logo{
     background-color: #0033ff;
     width: 30vw;
     display: flex;
     margin-right: 100px;
 }
-.content img {
-    display: flex;
-    justify-content: center;
 
+.man {
+    display: flex;
+    justify-content: flex-end;
 }
