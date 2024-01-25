@@ -1,17 +1,40 @@
 .cabecalho {
     background-color: #0033ff;
-    
+    display: flex;
+    justify-content: space-between;
+        
+}
+
+.cabecalho img{
+    height: 10vh;
+    width: 10vw;
 }
 
 .botao-visual {
     background-color: rgba(255, 94, 0, 0.947);
     color: white;
     border:white;
+    width: 15vw;
+    height: 10vh;
+    
 }
 .content {
-    color: blue;
+    color: white;
+    background-color: #0033ff;
 
 }
 .text-1 {
     color:white;
+    justify-content: flex-end;
+}
+.logo{
+    background-color: #0033ff;
+    width: 30vw;
+    display: flex;
+    margin-right: 100px;
+}
+.content img {
+    display: flex;
+    justify-content: center;
+
 }
